@@ -13,6 +13,8 @@ list3 = [1, 3, 4, 5]
 
 list4 = [1, 3, 4, 5]
 
+list5 = [4,3 , 5, 2, 4,3]
+
 if __name__ == '__main__':
 
     print("\nSOME PROBABILITY PROBLEMS\n")
