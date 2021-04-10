@@ -61,3 +61,5 @@ if __name__ == "__main__":
     print(sys.argv[0])
     topic = sys.argv[1]
     scrape_topic_repositories(topic)
+    
+    ls = [1, 2, 3]
