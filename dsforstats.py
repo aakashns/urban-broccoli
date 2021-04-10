@@ -7,6 +7,12 @@ import cupcake.counting as C
 
 list1 = [1, 3, 4, 5]
 
+list2 = [1, 3, 4, 5]
+
+list3 = [1, 3, 4, 5]
+
+list4 = [1, 3, 4, 5]
+
 if __name__ == '__main__':
 
     print("\nSOME PROBABILITY PROBLEMS\n")
