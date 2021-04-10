@@ -18,7 +18,13 @@ if __name__ == '__main__':
 
     print("\nSOME PROBABILITY PROBLEMS\n")
 
-    
+    # Question 1
+    print("Q: Find the probability of getting a head when you toss a fair coin?")
+    print("A: The probability is {}".format(p_head) )
+    expected_p_head = 0.5
+    test_equal(p_head, expected_p_head)
+    print("")
+
     # Question 2
     print("Q: Find the probability of getting 3 heads when you toss 10 fair coins.")
     p_3_heads = C.combinations(10, 2) / 2**10
